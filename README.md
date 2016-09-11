@@ -1,8 +1,16 @@
-# advanced-web-sockets
+# COMP 2068 PLAR
 
+Simple task application to provide basic CRUD functionality in the MEAN stack.
 This project was generated with the [Angular Full-Stack Generator](https://github.com/DaftMonk/generator-angular-fullstack) version 4.0.4.
 
 ## Getting Started
+
+`git clone https://github.com/tlherr/COMP2068-PLAR.git
+ cd COMP2068-PLAR
+ npm install
+ gulp-serve
+`
+Application will run on localhost:3000. Mongodb process will be required before running gulp-serve.
 
 ### Prerequisites
 
